@@ -1,0 +1,24 @@
+{
+    "apple": {
+        "price": 35
+    },
+    "banana": {
+        "price": 20
+    },
+    "limes": {
+        "price": 15,
+        "offer": {
+            "buy": 2,
+            "get": 1,
+            "statement": "Three for the price of two"
+        }
+    },
+    "melons": {
+        "price": 50,
+        "offer": {
+            "buy": 1,
+            "get": 1,
+            "statement": "Buy 1, Get 1 free"
+        }
+    }
+}
